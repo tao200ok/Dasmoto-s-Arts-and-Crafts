@@ -1,0 +1,48 @@
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: khaki;
+  height: 120px;
+  padding-top: 20px;
+  background: beige url("../images/pattern.jpeg") ;
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+  padding: 10px;
+}
+
+figure {
+  margin: 0;
+}
+
+.background-mediumspringgreen {
+  background-color: mediumspringgreen;
+}
+
+.background-lightcoral {
+  background-color: lightcoral;
+}
+
+.background-skyblue {
+  background-color: skyblue;
+}
+
+.helvetica {
+  font-family: helvetica;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+  padding-top: 5px;}
+
+p a {
+  text-decoration: none;
+  color: blue;
+}
